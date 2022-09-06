@@ -1,3 +1,2 @@
-#!/bin/bash
-'Hello world'
+Hello, World
 Creates a new file
